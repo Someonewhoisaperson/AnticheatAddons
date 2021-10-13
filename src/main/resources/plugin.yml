@@ -1,0 +1,8 @@
+name: AnticheatAddons
+version: ${project.version}
+main: net.zejzz.dev.anticheataddons.AnticheatAddons
+api-version: 1.17
+depend: [ KarhuLoader ]
+authors: [ Zejzz ]
+description: Better alert system for the anticheat, currently targetting karhu & grim
+website: https://dev.zejzz.net/anticheat

@@ -17,3 +17,5 @@ public final class AnticheatAddons extends JavaPlugin {
         // Plugin shutdown logic
     }
 }
+
+
